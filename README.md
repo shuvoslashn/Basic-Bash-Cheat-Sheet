@@ -3,6 +3,8 @@
 
 A cheat sheet for daily used bash commands.
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 
 
 ## Command History
